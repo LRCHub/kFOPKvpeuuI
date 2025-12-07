@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Feel Special",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-07T09:07:23.855019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel Special",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_Feel_Special_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How I Feel (Special Features Radio Mix)",
+      "artist": "Flo Rida",
+      "has_synced": false,
+      "path": "select/02_How_I_Feel_(Special_Features_Radio_Mix)_Flo_Rida.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feel Special (Japanese Version)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_Feel_Special_(Japanese_Version)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel Special",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/04_Feel_Special_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "u should feel special",
+      "artist": "thuy",
+      "has_synced": true,
+      "path": "select/05_u_should_feel_special_thuy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feel Special - Japanese ver.",
+      "artist": "Twice",
+      "has_synced": true,
+      "path": "select/06_Feel_Special_-_Japanese_ver._Twice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel Special",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/07_Feel_Special_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feel special (Live)",
+      "artist": "골든걸스",
+      "has_synced": true,
+      "path": "select/08_Feel_special_(Live)_골든걸스.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Feel Special (instrumental)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/09_Feel_Special_(instrumental)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feel Special (Japanese Version)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/10_Feel_Special_(Japanese_Version)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feel Special",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/11_Feel_Special_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feel Special (feat. Annapantsu, Lollia, Jayn & Rachie)",
+      "artist": "Master Andross",
+      "has_synced": false,
+      "path": "select/12_Feel_Special_(feat._Annapantsu,_Lollia,_Jayn_&_Rachie)_Master_Andross.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feel Special - Twice (Cover en Español)",
+      "artist": "Hitomi Flor",
+      "has_synced": true,
+      "path": "select/13_Feel_Special_-_Twice_(Cover_en_Español)_Hitomi_Flor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Feel Special Like Young Thug I Ride a Short Bus",
+      "artist": "Shotbois",
+      "has_synced": false,
+      "path": "select/14_I_Feel_Special_Like_Young_Thug_I_Ride_a_Short_Bus_Shotbois.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel Special",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_Special_TWICE.txt"
+    }
+  ]
+}
